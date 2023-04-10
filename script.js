@@ -110,6 +110,3 @@ settingsForm.addEventListener("change", (e) => {
   localStorage.setItem("difficulty", difficulty);
 });
 
-//homework
-//get all words from https://random-word-api.herokuapp.com/all and store locally 
-//get random word from local database
