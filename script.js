@@ -7,6 +7,7 @@ const difficultySelect = document.querySelector("#difficulty");
 const settingsForm = document.querySelector("#settings-form");
 const settings = document.querySelector("#settings");
 const endGameEl = document.querySelector("#end-game-container");
+// code is being reviewed
 
 /* const words = [
   "sigh",
